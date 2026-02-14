@@ -12,7 +12,7 @@ Two interfaces are provided: a command-line program and a web service. Both perf
 
 ---
 
-# Tools and Libraries
+## Tools and Libraries
 
 The following tools and Python libraries are used:
 - yt-dlp for downloading YouTube videos
